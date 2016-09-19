@@ -1,5 +1,5 @@
 #include<stdio>
 int main()
 {
-	printf("HelloWorld");
+	printf("iphone 7");
 }
